@@ -7,15 +7,15 @@ description: >
   One or more sentences introducing this blog.
 
 # Your information
-email: your_email@example.com
-author: your_name
-avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+email: ludvig.lundgren@hotmail.com
+author: Ludvig Lundgren
+avatar: "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/11996912_10200894208114432_7348736752098560555_n.jpg?_nc_cat=102&_nc_ht=scontent-arn2-1.xx&oh=0e20ecc307d1fd1b391042990165fe96&oe=5D623DFE"
+profile: Studying CS in Stockholm
 #twitter_username: twitter_username
-#github_username:  github_username
+#github_username:  ludviglundgrens
 profile_links:
-  Email: "mailto:your_email@example.com"
-  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  Email: "mailto:ludvig.lundgren@hotmail.com"
+  GitHub: "https://github.com/ludviglundgrens"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
