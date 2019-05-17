@@ -1,3 +1,10 @@
 ## My first post on this blog
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+I will mostly work in:
+- R
+- Python
+- React
+
+Working with web-development, webscraping, data-analysis, finance...
+
+
