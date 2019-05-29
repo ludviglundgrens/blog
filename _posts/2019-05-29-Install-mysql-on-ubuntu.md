@@ -8,7 +8,7 @@ First we need to install some ubuntu packages:
 1. sudo apt-get install mysql-server mysql-client phpmyadmin
 2. If the setup does not run automatically, run: sudo mysql_secure_installation
 3. Mysql code:
-``` 
+```css 
 CREATE DATABASE DB1;
 
 GRANT ALL ON DB1.* TO 'USER'@'%' IDENTIFIED BY 'PASSWORD';
