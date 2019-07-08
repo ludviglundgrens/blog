@@ -8,6 +8,14 @@ First we need to install some ubuntu packages:
 1. sudo apt-get install mysql-server mysql-client phpmyadmin
 2. If the setup does not run automatically, run: sudo mysql_secure_installation
 3. Mysql code:
+
+If phpmyadmin dont work, try:
+sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf-available/phpmyadmin.conf
+sudo ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin
+sudo service apache2 restart
+
+now type  localhost/phpmyadmin in web browser address bar
+
 ```css 
 CREATE DATABASE DB1;
 
