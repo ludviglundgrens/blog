@@ -34,4 +34,4 @@ Sudo mysql -u root
 5. Enable port forwarding on router.
 
 Try connection in python:
-conn = pymysql.connect("192.168.1.95, user="ludvig", passwd="danderydd", db="DB1, connect_timeout=5)
+conn = pymysql.connect("ip-address/domain", user="username", passwd="password", db="db_name", connect_timeout=5)
